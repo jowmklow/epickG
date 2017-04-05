@@ -1,2 +1,2 @@
 # epickG
-proyect fro ePickG
+proyect for ePickG
